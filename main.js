@@ -1,3 +1,5 @@
+import { gamesList } from './games';
+
 function createGame(player1, hour, player2) {
     return `
         <li>
