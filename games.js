@@ -96,7 +96,7 @@ export const gamesList = [
         time: '10:00',
         teams: ['', ''],
         times: ['Alemanha', 'Japão'],
-        score: [0, 0],
+        score: [1, 2],
         stadium: 'Estádio Internacional Khalifa',
     },
     {
@@ -106,7 +106,7 @@ export const gamesList = [
         time: '13:00',
         teams: ['', ''],
         times: ['Espanha', 'Costa Rica'],
-        score: [0, 0],
+        score: [7, 0],
         stadium: 'Estádio al-Thumama',
     },
     {
@@ -116,7 +116,7 @@ export const gamesList = [
         time: '16:00',
         teams: ['belgium', 'canada'],
         times: ['Bélgica', 'Canadá'],
-        score: [0, 0],
+        score: [1, 0],
         stadium: 'Estádio Ahmed bin Ali',
     },
     {
@@ -126,7 +126,7 @@ export const gamesList = [
         time: '07:00',
         teams: ['switzerland', 'cameroon'],
         times: ['Suíça', 'Camarões'],
-        score: [0, 0],
+        score: [1, 0],
         stadium: 'Estádio al-Janoub',
     },
     {
@@ -146,7 +146,7 @@ export const gamesList = [
         time: '13:00',
         teams: ['portugal', 'ghana'],
         times: ['Portugal', 'Gana'],
-        score: [0, 0],
+        score: [3, 2],
         stadium: 'Estádio 974',
     },
     {
@@ -156,7 +156,7 @@ export const gamesList = [
         time: '16:00',
         teams: ['brazil', 'serbia'],
         times: ['Brasil', 'Sérvia'],
-        score: [0, 0],
+        score: [2, 0],
         stadium: 'Estádio Lusail',
     },
     {
@@ -166,7 +166,7 @@ export const gamesList = [
         time: '07:00',
         teams: ['wales', 'iran'],
         times: ['Gales', 'Irã'],
-        score: [0, 0],
+        score: [0, 2],
         stadium: 'Estádio Ahmed bin Ali',
     },
     {
@@ -176,7 +176,7 @@ export const gamesList = [
         time: '1:00',
         teams: ['qatar', 'senegal'],
         times: ['Catar', 'Senegal'],
-        score: [0, 0],
+        score: [1, 3],
         stadium: 'Estádio al-Thumama',
     },
     {
@@ -186,7 +186,7 @@ export const gamesList = [
         time: '13:00',
         teams: ['netherlands', 'ecuador'],
         times: ['Holanda', 'Equador'],
-        score: [0, 0],
+        score: [1, 1],
         stadium: 'Estádio Internacional Khalifa',
     },
     {
@@ -206,7 +206,7 @@ export const gamesList = [
         time: '07:00',
         teams: ['tunisia', 'australia'],
         times: ['Tunísia', 'Austrália'],
-        score: [0, 0],
+        score: [0, 1],
         stadium: 'Estádio al-Janoub',
     },
     {
@@ -216,7 +216,7 @@ export const gamesList = [
         time: '10:00',
         teams: ['poland', 'saudi-arabia'],
         times: ['Polônia', 'Arábia Saudita'],
-        score: [0, 0],
+        score: [2, 0],
         stadium: 'Estádio Education City',
     },
     {
@@ -226,7 +226,7 @@ export const gamesList = [
         time: '13:00',
         teams: ['france', 'denmark'],
         times: ['França', 'Dinamarca'],
-        score: [0, 0],
+        score: [2, 1],
         stadium: 'Estádio 974',
     },
     {
@@ -236,7 +236,7 @@ export const gamesList = [
         time: '16:00',
         teams: ['argentina', 'mexico'],
         times: ['Argentina', 'México'],
-        score: [0, 0],
+        score: [2, 0],
         stadium: 'Estádio Lusail',
     },
     {
@@ -246,7 +246,7 @@ export const gamesList = [
         time: '07:00',
         teams: ['japan', 'costa-rica'],
         times: ['Japão', 'Costa Rica'],
-        score: [0, 0],
+        score: [0, 1],
         stadium: 'Estádio Ahmed bin Ali',
     },
     {
@@ -256,7 +256,7 @@ export const gamesList = [
         time: '10:00',
         teams: ['belgium', 'morocco'],
         times: ['Bélgica', 'Marrocos'],
-        score: [0, 0],
+        score: [0, 2],
         stadium: 'Estádio al-Thumama',
     },
     {
@@ -266,7 +266,7 @@ export const gamesList = [
         time: '13:00',
         teams: ['croatia', 'canada'],
         times: ['Croácia', 'Canadá'],
-        score: [0, 0],
+        score: [4, 1],
         stadium: 'Estádio Internacional Khalifa',
     },
     {
@@ -276,7 +276,7 @@ export const gamesList = [
         time: '16:00',
         teams: ['spain', 'germany'],
         times: ['Espanha', 'Alemanha'],
-        score: [0, 0],
+        score: [1, 1],
         stadium: 'Estádio al-Bayt',
     }, 
     {
@@ -286,7 +286,7 @@ export const gamesList = [
         time: '07:00',
         teams: ['cameroon', 'serbia'],
         times: ['Camarões', 'Sérvia'],
-        score: [0, 0],
+        score: [3, 3],
         stadium: 'Estádio al-Janoub',
     },
     {
@@ -296,7 +296,7 @@ export const gamesList = [
         time: '10:00',
         teams: ['korea', 'ghana'],
         times: ['Coréia do Sul', 'Gana'],
-        score: [0, 0],
+        score: [2, 3],
         stadium: 'Estádio Education City',
     }, 
     {
@@ -306,7 +306,7 @@ export const gamesList = [
         time: '13:00',
         teams: ['brazil', 'switzerland'],
         times: ['Brasil', 'Suíça'],
-        score: [0, 0],
+        score: [1, 0],
         stadium: 'Estádio 974',
     },
     {
@@ -316,7 +316,7 @@ export const gamesList = [
         time: '16:00',
         teams: ['portugal', 'uruguay'],
         times: ['Portugal', 'Uruguai'],
-        score: [0, 0],
+        score: [2, 0],
         stadium: 'Estádio Lusail',
     }, 
     {
@@ -326,7 +326,7 @@ export const gamesList = [
         time: '12:00',
         teams: ['netherlands', 'qatar'],
         times: ['Holanda', 'Catar'],
-        score: [0, 0],
+        score: [2, 0],
         stadium: 'Estádio al-Bayt',
     },
     {
@@ -336,7 +336,7 @@ export const gamesList = [
         time: '12:00',
         teams: ['ecuador', 'senegal'],
         times: ['Equador', 'Senegal'],
-        score: [0, 0],
+        score: [1, 2],
         stadium: 'Estádio Internacional Khalifa',
     },
     {
@@ -346,7 +346,7 @@ export const gamesList = [
         time: '16:00',
         teams: ['wales', 'england'],
         times: ['Gales', 'Inglaterra'],
-        score: [0, 0],
+        score: [0, 3],
         stadium: 'Estádio Ahmed bin Ali',
     },
     {
@@ -356,7 +356,7 @@ export const gamesList = [
         time: '16:00',
         teams: ['iran', 'usa'],
         times: ['Irã', 'EUA'],
-        score: [0, 0],
+        score: [0, 1],
         stadium: 'Estádio al-Thumama',
     },
     {
@@ -366,7 +366,7 @@ export const gamesList = [
         time: '12:00',
         teams: ['tunisia', 'france'],
         times: ['Tunísia', 'França'],
-        score: [0, 0],
+        score: [1, 0],
         stadium: 'Estádio Education City',
     },
     {
@@ -376,7 +376,7 @@ export const gamesList = [
         time: '12:00',
         teams: ['australia', 'denmark'],
         times: ['Austrália', 'Dinamarca'],
-        score: [0, 0],
+        score: [1, 0],
         stadium: 'Estádio al-Janoub',
     },
     {
@@ -386,7 +386,7 @@ export const gamesList = [
         time: '16:00',
         teams: ['poland', 'argentina'],
         times: ['Polônia', 'Argentina'],
-        score: [0, 0],
+        score: [0, 2],
         stadium: 'Estádio 974',
     },
     {
@@ -396,7 +396,7 @@ export const gamesList = [
         time: '16:00',
         teams: ['saudi-arabia', 'mexico'],
         times: ['Arábia Saudita', 'México'],
-        score: [0, 0],
+        score: [1, 2],
         stadium: 'Estádio Lusail',
     },
     {
@@ -416,7 +416,7 @@ export const gamesList = [
         time: '12:00',
         teams: ['canada', 'morocco'],
         times: ['Canadá', 'Marrocos'],
-        score: [0, 0],
+        score: [1, 2],
         stadium: 'Estádio al-Thumama',
     },
     {
@@ -426,7 +426,7 @@ export const gamesList = [
         time: '16:00',
         teams: ['japan', 'spain'],
         times: ['Japão', 'Espanha'],
-        score: [0, 0],
+        score: [2, 1],
         stadium: 'Estádio Internacional Khalifa',
     }, 
     {
@@ -436,7 +436,7 @@ export const gamesList = [
         time: '16:00',
         teams: ['costa-rica', 'germany'],
         times: ['Costa Rica', 'Alemanha'],
-        score: [0, 0],
+        score: [2, 4],
         stadium: 'Estádio al-Bayt',
     },
     {
