@@ -1,6 +1,7 @@
 export const gamesList = [
     {
         id: '1',
+        group: 'A',
         date: '20/11/2022',
         time: '13:00',
         teams: ['qatar', 'ecuador'],
@@ -10,6 +11,7 @@ export const gamesList = [
     },
     {
         id: '2',
+        group: 'B',
         date: '21/11/2022',
         time: '10:00',
         teams: ['england', 'iran'],
@@ -19,6 +21,7 @@ export const gamesList = [
     },
     {
         id: '3',
+        group: 'A',
         date: '21/11/2022',
         time: '13:00',
         teams: ['senegal', 'netherlands'],
@@ -28,6 +31,7 @@ export const gamesList = [
     },
     {
         id: '4',
+        group: 'B',
         date: '21/11/2022',
         time: '16:00',
         teams: ['usa', 'wales'],
@@ -37,6 +41,7 @@ export const gamesList = [
     },
     {
         id: '5',
+        group: 'C',
         date: '22/11/2022',
         time: '07:00',
         teams: ['argentina', 'saudi-arabia'],
@@ -46,6 +51,7 @@ export const gamesList = [
     },
     {
         id: '6',
+        group: 'D',
         date: '22/11/2022',
         time: '10:00',
         teams: ['denmark', 'tunisia'],
@@ -55,6 +61,7 @@ export const gamesList = [
     },
     {
         id: '7',
+        group: 'C',
         date: '22/11/2022',
         time: '13:00',
         teams: ['mexico', 'poland'],
@@ -64,6 +71,7 @@ export const gamesList = [
     }, 
     {
         id: '8',
+        group: 'D',
         date: '22/11/2022',
         time: '16:00',
         teams: ['france', 'australia'],
@@ -73,6 +81,7 @@ export const gamesList = [
     },
     {
         id: '9',
+        group: 'F',
         date: '23/11/2022',
         time: '07:00',
         teams: ['morocco', ''],
@@ -82,6 +91,7 @@ export const gamesList = [
     },
     {
         id: '10',
+        group: 'E',
         date: '23/11/2022',
         time: '10:00',
         teams: ['', ''],
@@ -91,6 +101,7 @@ export const gamesList = [
     },
     {
         id: '11',
+        group: 'E',
         date: '23/11/2022',
         time: '13:00',
         teams: ['', ''],
@@ -100,6 +111,7 @@ export const gamesList = [
     },
     {
         id: '12',
+        group: 'F',
         date: '23/11/2022',
         time: '16:00',
         teams: ['belgium', 'canada'],
@@ -109,6 +121,7 @@ export const gamesList = [
     },
     {
         id: '13',
+        group: 'G',
         date: '24/11/2022',
         time: '07:00',
         teams: ['switzerland', 'cameroon'],
@@ -118,6 +131,7 @@ export const gamesList = [
     },
     {
         id: '14',
+        group: 'H',
         date: '24/11/2022',
         time: '10:00',
         teams: ['uruguay', 'korea'],
@@ -127,6 +141,7 @@ export const gamesList = [
     },
     {
         id: '15',
+        group: 'H',
         date: '24/11/2022',
         time: '13:00',
         teams: ['portugal', 'ghana'],
@@ -136,6 +151,7 @@ export const gamesList = [
     },
     {
         id: '16',
+        group: 'G',
         date: '24/11/2022',
         time: '16:00',
         teams: ['brazil', 'serbia'],
@@ -145,6 +161,7 @@ export const gamesList = [
     },
     {
         id: '17',
+        group: 'B',
         date: '25/11/2022',
         time: '07:00',
         teams: ['wales', 'iran'],
@@ -154,6 +171,7 @@ export const gamesList = [
     },
     {
         id: '18',
+        group: 'A',
         date: '25/11/2022',
         time: '1:00',
         teams: ['qatar', 'senegal'],
@@ -163,6 +181,7 @@ export const gamesList = [
     },
     {
         id: '19',
+        group: 'A',
         date: '25/11/2022',
         time: '13:00',
         teams: ['netherlands', 'ecuador'],
@@ -172,6 +191,7 @@ export const gamesList = [
     },
     {
         id: '20',
+        group: 'B',
         date: '25/11/2022',
         time: '16:00',
         teams: ['england', 'usa'],
@@ -181,6 +201,7 @@ export const gamesList = [
     },
     {
         id: '21',
+        group: 'D',
         date: '26/11/2022',
         time: '07:00',
         teams: ['tunisia', 'australia'],
@@ -190,6 +211,7 @@ export const gamesList = [
     },
     {
         id: '22',
+        group: 'C',
         date: '26/11/2022',
         time: '10:00',
         teams: ['poland', 'saudi-arabia'],
@@ -199,6 +221,7 @@ export const gamesList = [
     },
     {
         id: '23',
+        group: 'D',
         date: '26/11/2022',
         time: '13:00',
         teams: ['france', 'denmark'],
@@ -208,6 +231,7 @@ export const gamesList = [
     },
     {
         id: '24',
+        group: 'C',
         date: '26/11/2022',
         time: '16:00',
         teams: ['argentina', 'mexico'],
@@ -217,6 +241,7 @@ export const gamesList = [
     },
     {
         id: '25',
+        group: 'E',
         date: '27/11/2022',
         time: '07:00',
         teams: ['japan', 'costa-rica'],
@@ -226,6 +251,7 @@ export const gamesList = [
     },
     {
         id: '26',
+        group: 'F',
         date: '27/11/2022',
         time: '10:00',
         teams: ['belgium', 'morocco'],
@@ -235,6 +261,7 @@ export const gamesList = [
     },
     {
         id: '27',
+        group: 'F',
         date: '27/11/2022',
         time: '13:00',
         teams: ['croatia', 'canada'],
@@ -244,6 +271,7 @@ export const gamesList = [
     },
     {
         id: '28',
+        group: 'E',
         date: '27/11/2022',
         time: '16:00',
         teams: ['spain', 'germany'],
@@ -253,6 +281,7 @@ export const gamesList = [
     }, 
     {
         id: '29',
+        group: 'G',
         date: '28/11/2022',
         time: '07:00',
         teams: ['cameroon', 'serbia'],
@@ -262,6 +291,7 @@ export const gamesList = [
     },
     {
         id: '30',
+        group: 'H',
         date: '28/11/2022',
         time: '10:00',
         teams: ['korea', 'ghana'],
@@ -271,6 +301,7 @@ export const gamesList = [
     }, 
     {
         id: '31',
+        group: 'G',
         date: '28/11/2022',
         time: '13:00',
         teams: ['brazil', 'switzerland'],
@@ -280,6 +311,7 @@ export const gamesList = [
     },
     {
         id: '32',
+        group: 'H',
         date: '28/11/2022',
         time: '16:00',
         teams: ['portugal', 'uruguay'],
@@ -289,6 +321,7 @@ export const gamesList = [
     }, 
     {
         id: '33',
+        group: 'A',
         date: '29/11/2022',
         time: '12:00',
         teams: ['netherlands', 'qatar'],
@@ -298,6 +331,7 @@ export const gamesList = [
     },
     {
         id: '34',
+        group: 'A',
         date: '29/11/2022',
         time: '12:00',
         teams: ['ecuador', 'senegal'],
@@ -307,6 +341,7 @@ export const gamesList = [
     },
     {
         id: '35',
+        group: 'B',
         date: '29/11/2022',
         time: '16:00',
         teams: ['wales', 'england'],
@@ -316,6 +351,7 @@ export const gamesList = [
     },
     {
         id: '36',
+        group: 'B',
         date: '29/11/2022',
         time: '16:00',
         teams: ['iran', 'usa'],
@@ -325,6 +361,7 @@ export const gamesList = [
     },
     {
         id: '37',
+        group: 'D',
         date: '30/11/2022',
         time: '12:00',
         teams: ['tunisia', 'france'],
@@ -334,6 +371,7 @@ export const gamesList = [
     },
     {
         id: '38',
+        group: 'D',
         date: '30/11/2022',
         time: '12:00',
         teams: ['australia', 'denmark'],
@@ -343,6 +381,7 @@ export const gamesList = [
     },
     {
         id: '39',
+        group: 'C',
         date: '30/11/2022',
         time: '16:00',
         teams: ['poland', 'argentina'],
@@ -352,6 +391,7 @@ export const gamesList = [
     },
     {
         id: '40',
+        group: 'C',
         date: '30/11/2022',
         time: '16:00',
         teams: ['saudi-arabia', 'mexico'],
@@ -361,6 +401,7 @@ export const gamesList = [
     },
     {
         id: '41',
+        group: 'F',
         date: '01/12/2022',
         time: '12:00',
         teams: ['croatia', 'belgium'],
@@ -370,6 +411,7 @@ export const gamesList = [
     },
     {
         id: '42',
+        group: 'F',
         date: '01/12/2022',
         time: '12:00',
         teams: ['canada', 'morocco'],
@@ -379,6 +421,7 @@ export const gamesList = [
     },
     {
         id: '43',
+        group: 'E',
         date: '01/12/2022',
         time: '16:00',
         teams: ['japan', 'spain'],
@@ -388,6 +431,7 @@ export const gamesList = [
     }, 
     {
         id: '44',
+        group: 'E',
         date: '01/12/2022',
         time: '16:00',
         teams: ['costa-rica', 'germany'],
@@ -397,6 +441,7 @@ export const gamesList = [
     },
     {
         id: '45',
+        group: 'H',
         date: '02/12/2022',
         time: '12:00',
         teams: ['ghana', 'uruguay'],
@@ -406,6 +451,7 @@ export const gamesList = [
     },
     {
         id: '46',
+        group: 'H',
         date: '02/12/2022',
         time: '12:00',
         teams: ['korea', 'portugal',],
@@ -415,6 +461,7 @@ export const gamesList = [
     },
     {
         id: '47',
+        group: 'G',
         date: '02/12/2022',
         time: '16:00',
         teams: ['serbia', 'switzerland'],
@@ -424,6 +471,7 @@ export const gamesList = [
     },
     {
         id: '48',
+        group: 'G',
         date: '02/12/2022',
         time: '16:00',
         teams: ['cameroon', 'brazil'],
